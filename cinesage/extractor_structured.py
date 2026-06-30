@@ -6,7 +6,7 @@ Movie descriptions, Press release, Blog articles, review summaries, metadata fro
 Streaming platform requires structure movie metadata, yet most incoming data arrives as messy paragraphs. Extracting it manually is time consuming, expensive, error-prone ad difficult to scale.
 Cinesage wants to build an AI-powered tool that:
 1.Takes a raw paragraph about a movie
-2.extracts important structured information
+2.extracts important structured information 
 3.generates a clean summary
 4.returns it in JSON format
 5.stores it in their datadase
