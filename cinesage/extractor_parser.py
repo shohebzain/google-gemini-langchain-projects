@@ -9,7 +9,7 @@ load_dotenv()
 
 # 1. Define your data structure
 class MovieMetadata(BaseModel):
-    title: str = Field(description="The official title of the movie.")
+    title: str = Field(description="The official title of the movie.") 
     release_year: Optional[int] = Field(description="The year the movie was released.")
     genres: List[str] = Field(description="List of genres associated with the movie.")
     director: Optional[str] = Field(description="The director of the movie.")
