@@ -1,6 +1,28 @@
-# Google Gemini & LangChain Integration Projects
+<div align="center">
 
-A curated collection of projects demonstrating integration with Google Gemini LLMs and LangChain, showcasing different application patterns: simple APIs, conversational agents, embeddings generation, and structured metadata extraction.
+# 🤖 Google Gemini & LangChain Projects
+
+### 🚀 Build Production-Ready AI Applications with Google Gemini & LangChain
+
+<p align="center">
+A collection of hands-on AI projects demonstrating chatbots, embeddings, structured outputs, prompt engineering, and modern LLM application development using Google Gemini, LangChain, and Python.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3.13+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/>
+
+</p>
+
+</div>
 
 ---
 
