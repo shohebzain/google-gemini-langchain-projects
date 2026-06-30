@@ -5,7 +5,7 @@ from langchain_google_genai import GoogleGenerativeAIEmbeddings
 load_dotenv()
 
 # Initialize the embedding model
-embeddings = GoogleGenerativeAIEmbeddings(
+embeddings = GoogleGenerativeAIEmbeddings( 
     model="models/gemini-embedding-001"
 )
 
